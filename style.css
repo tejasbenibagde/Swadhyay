@@ -299,7 +299,7 @@ html, body{
 }
 #page-4 > .page-4r > img{
     width: 30vw;
-    height: auto;
+    max-height: 30vw;
 }
 
 
@@ -594,6 +594,7 @@ html, body{
     list-style: none;
 }
 .link-10 ul li a{
+    font-size: 1.2vw;
     color: var(--a);
     text-decoration: none;
     transition: .3s;
