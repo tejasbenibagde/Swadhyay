@@ -329,7 +329,7 @@
     }
     #page-4 > .page-4r > img{
         width: 50vw;
-        height: auto;
+        min-height: 50vw;
     }
 
 
